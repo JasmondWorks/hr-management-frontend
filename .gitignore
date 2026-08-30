@@ -42,3 +42,4 @@ next-env.d.ts
 
 # Design reference mockups — kept locally, too large to version (34MB)
 public/HR Management Admin System UI_UX by econev (Community)/
+.vercel
